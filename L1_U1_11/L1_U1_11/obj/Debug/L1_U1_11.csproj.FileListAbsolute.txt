@@ -1,0 +1,8 @@
+C:\Users\Vartotojas\Desktop\L1_U1_11\L1_U1_11\bin\Debug\L1Data.csv
+C:\Users\Vartotojas\Desktop\L1_U1_11\L1_U1_11\bin\Debug\Laboratorinis1.exe.config
+C:\Users\Vartotojas\Desktop\L1_U1_11\L1_U1_11\bin\Debug\Laboratorinis1.exe
+C:\Users\Vartotojas\Desktop\L1_U1_11\L1_U1_11\bin\Debug\Laboratorinis1.pdb
+C:\Users\Vartotojas\Desktop\L1_U1_11\L1_U1_11\obj\Debug\L1_U1_11.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\L1_U1_11\L1_U1_11\obj\Debug\L1_U1_11.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\L1_U1_11\L1_U1_11\obj\Debug\Laboratorinis1.exe
+C:\Users\Vartotojas\Desktop\L1_U1_11\L1_U1_11\obj\Debug\Laboratorinis1.pdb

@@ -1,0 +1,38 @@
+I:\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.exe.config
+I:\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.exe
+I:\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.pdb
+I:\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.Juvelyrikos_parduotuvė.csproj.CoreCompileInputs.cache
+I:\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.exe
+I:\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.pdb
+E:\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.exe.config
+E:\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.exe
+E:\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.pdb
+E:\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.Juvelyrikos_parduotuvė.csprojAssemblyReference.cache
+E:\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.Juvelyrikos_parduotuvė.csproj.CoreCompileInputs.cache
+E:\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.exe
+E:\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.pdb
+I:\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.Juvelyrikos_parduotuvė.csprojAssemblyReference.cache
+I:\Laboratorinis\Laboratorinis1\bin\Debug\L1DataTest1.csv
+I:\Laboratorinis\Laboratorinis1\bin\Debug\L1Data.csv
+I:\Laboratorinis\Laboratorinis1\bin\Debug\L1DataTest2.csv
+I:\Laboratorinis\Laboratorinis1\bin\Debug\BA300.csv
+I:\Laboratorinis\Laboratorinis1\bin\Debug\Ziedai3.csv
+C:\Users\Vartotojas\Desktop\New folder (2)\Laboratorinis\Laboratorinis1\bin\Debug\L1Data.csv
+C:\Users\Vartotojas\Desktop\New folder (2)\Laboratorinis\Laboratorinis1\bin\Debug\L1DataTest1.csv
+C:\Users\Vartotojas\Desktop\New folder (2)\Laboratorinis\Laboratorinis1\bin\Debug\L1DataTest2.csv
+C:\Users\Vartotojas\Desktop\New folder (2)\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.exe.config
+C:\Users\Vartotojas\Desktop\New folder (2)\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.exe
+C:\Users\Vartotojas\Desktop\New folder (2)\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.pdb
+C:\Users\Vartotojas\Desktop\New folder (2)\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.Juvelyrikos_parduotuvė.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\New folder (2)\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.Juvelyrikos_parduotuvė.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\New folder (2)\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.exe
+C:\Users\Vartotojas\Desktop\New folder (2)\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.pdb
+C:\Users\Vartotojas\Desktop\L1\Laboratorinis\Laboratorinis1\bin\Debug\L1Data.csv
+C:\Users\Vartotojas\Desktop\L1\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.exe.config
+C:\Users\Vartotojas\Desktop\L1\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.exe
+C:\Users\Vartotojas\Desktop\L1\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.pdb
+C:\Users\Vartotojas\Desktop\L1\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.Juvelyrikos_parduotuvė.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\L1\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.exe
+C:\Users\Vartotojas\Desktop\L1\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.pdb
+C:\Users\Vartotojas\Desktop\L1\Laboratorinis\Laboratorinis1\bin\Debug\L1DataTest.csv
+C:\Users\Vartotojas\Desktop\L1\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.Juvelyrikos_parduotuvė.csprojAssemblyReference.cache

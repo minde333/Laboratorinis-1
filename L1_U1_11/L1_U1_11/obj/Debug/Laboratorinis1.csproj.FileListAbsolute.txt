@@ -1,0 +1,7 @@
+I:\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.exe.config
+I:\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.exe
+I:\Laboratorinis\Laboratorinis1\bin\Debug\Laboratorinis1.pdb
+I:\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.csprojAssemblyReference.cache
+I:\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.csproj.CoreCompileInputs.cache
+I:\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.exe
+I:\Laboratorinis\Laboratorinis1\obj\Debug\Laboratorinis1.pdb
